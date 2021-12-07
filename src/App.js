@@ -4,11 +4,9 @@ import {
   Route,
   Routes,
 } from 'react-router-dom';
-import AddBook from './components/addbook';
 import Navbar from './components/navbar';
 import Categories from './components/categories';
 import Books from './components/books';
-
 
 function App() {
   return (
