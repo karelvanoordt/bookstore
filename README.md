@@ -48,8 +48,8 @@ npm install react-redux
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/karelvanoordt)
-- Twitter: [@twitterhandle](https://twitter.com/karelvanoordt)
+- GitHub: [@karelvanoordt](https://github.com/karelvanoordt)
+- Twitter: [@karelvanoordt](https://twitter.com/karelvanoordt)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/karelvanoordt)
 
 
