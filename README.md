@@ -19,6 +19,7 @@
 
 Coming Soon
 
+## Getting Started
 
 **To clone this project**
 **Run command: ```$git clone ``` [repo](https://github.com/karelvanoordt/bookstore.git)**
