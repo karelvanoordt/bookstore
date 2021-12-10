@@ -2,7 +2,6 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getAllBooks } from '../redux/books/books';
 import Book from './book';
-import BookForm from './bookInput';
 
 const BookList = () => {
   const dispatch = useDispatch();
@@ -22,7 +21,6 @@ const BookList = () => {
           book={book}
         />
       ))}
-      <BookForm />
     </div>
 
   );

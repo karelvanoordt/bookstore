@@ -5,6 +5,7 @@ import {
   Routes,
 } from 'react-router-dom';
 import Navbar from './components/navbar';
+import BookForm from './components/bookInput';
 import Categories from './components/categories';
 import Books from './components/displaybooks';
 
@@ -16,6 +17,7 @@ function App() {
         <Route exact path="/" element={<Books />} />
         <Route exact path="/categories" element={<Categories />} />
       </Routes>
+      <BookForm />
     </Router>
   );
 }

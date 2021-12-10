@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import userIcon from './media/user-icon.png';
 import './navbar.css';
 
 export default function Navbar() {
@@ -13,8 +12,8 @@ export default function Navbar() {
     <div id="nav-container">
       <h2 id="site-header">Bookstore CMS</h2>
 
-      <ul id="links" style={navStyle}>
-        <Link to="/">
+      <ul id="links">
+        <Link to="/" style={navStyle}>
           <li className="nav-item">BOOKS</li>
         </Link>
         <Link to="Categories" style={navStyle}>
@@ -22,7 +21,7 @@ export default function Navbar() {
         </Link>
       </ul>
 
-      <img id="user-logo" src={userIcon} alt="user icon" />
+      <i className="fas fa-user user-logo" />
     </div>
   );
 }
