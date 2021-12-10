@@ -11,8 +11,8 @@
 #site-header {
   font-family: 'Montserrat', sans-serif;
   color: #0290ff;
-  margin: 1.8rem 2.13rem 1.5rem 6.13rem ;
-  }
+  margin: 1.8rem 2.13rem 1.5rem 6.13rem;
+}
 
 #links {
   display: flex;
@@ -24,7 +24,7 @@
   margin-right: 2rem;
   font-size: 0.8rem;
   color: rgb(131, 131, 131);
-  margin-top: .8rem;
+  margin-top: 0.8rem;
   font-family: 'Montserrat', sans-serif;
   letter-spacing: 1.9px;
 }
