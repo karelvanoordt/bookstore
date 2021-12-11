@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-Coming Soon
+[Live Link](https://karelvanoordt-bookstore.herokuapp.com/)
 
 ## Getting Started
 

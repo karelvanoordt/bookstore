@@ -1,0 +1,51 @@
+#form-container {
+  bottom: 0%;
+  border-top: 0.5px solid rgba(0, 0, 0, 0.192);
+  width: 90vw;
+  margin: auto;
+}
+
+#form-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  color: rgba(0, 0, 0, 0.357);
+}
+
+#add-form {
+  justify-content: space-between;
+}
+
+#input-book-title {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.329);
+  border-radius: 3px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #c4c4c4;
+  width: 50%;
+  padding: 1rem;
+}
+
+#input-book-category {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.329);
+  border-radius: 3px;
+  margin-left: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #c4c4c4;
+  width: 20%;
+  padding: 1rem;
+}
+
+#add-btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.813rem;
+  border-radius: 3px;
+  margin-left: 2rem;
+  background-color: #0290ff;
+  color: white;
+  border: transparent;
+  width: 15%;
+  padding: 1rem;
+}
